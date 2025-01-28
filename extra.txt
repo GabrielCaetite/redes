@@ -1,5 +1,5 @@
 1.
-Instalação SSH: apt install ssh
+Instalação SSH: apt install openssh-server
 Acesso via SSH: ssh -p numeroPorta nomeUsuario@ip (exemplo: ssh -p 6911 gijoe@192.168.1.7)
 
 2.
