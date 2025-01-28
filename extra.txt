@@ -1,6 +1,10 @@
 1.
 Instalação SSH: apt install ssh
+<<<<<<< HEAD
 Acesso via SSH: ssh -p numeroPorta nomeUsuario@ip (exemplo: ssh -p 6911 gijoe@192.168.1.7)
+=======
+Acesso via SSH: ssh -p numeroPorta nomeUsuario@ip (exemplo: ssh -p 6911 gijoe@192.168.1.7s)
+>>>>>>> 9dc7738de9ed890949ec97f4ffe3f4a1f8ee4e2a
 
 2.
 /bin = Contém os progamas essenciais que o sistema precisa para funcionar corretamente, como comandos para copiar arquivos, listar diretórios e editar textos.   
