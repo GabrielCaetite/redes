@@ -1,5 +1,14 @@
 1.
 Instalação SSH: apt install ssh
-Acesso via SSH: ssh -p numeroPorta nomeUsuario@ip (exemplo: ssh -p 6911 gijoe@192.168.1.7)
+Acesso via SSH: ssh -p numeroPorta nomeUsuario@ip (exemplo: ssh -p 6911 gijoe@192.168.1.7s)
 
 2.
+/bin = Contém os progamas essenciais que o sistema precisa para funcionar corretamente, como comandos para copiar arquivos, listar diretórios e editar textos.   
+		 
+/home = É onde ficam os arquivos pessoais de cada usuários do sistema. Cada usuário tem uma pasta dentro de /home com seu nome, onde são armazenados seus documentos, configurações de outros arquivos pessoais.
+
+/etc = Armazena os arquivos de configuração do sistema e dos progamas. É onde ficam os arquivos que controlam o comportamento do sistema operacional e de aplicativos, como comfigurações de rede, usuários e permissões.
+
+/dev = Contém arquivos que representam dispositivos do sistema, como disco rígidos, terminais, impressoras e outros periféricos. Esses arquivos permitem que o sistema e os progamas interajam com os dispositivos de hardware de forma abstrata.
+
+/proc = Contém informações sobre o sistema e processos em tempo real. Ele é um sistema de arquivo virtual, onde você encontra dados sobre o funcionamento do sistema, como o uso de memória, o status dos processos e configuração do kernel.
